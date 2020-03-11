@@ -1,2 +1,0 @@
-CREATE DATABASE store
-THEN IMPORT store.sql 
