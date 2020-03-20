@@ -1,0 +1,2 @@
+CREATE DATABASE crud
+THEN IMPORT crud.sql 
